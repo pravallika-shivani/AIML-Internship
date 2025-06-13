@@ -15,12 +15,6 @@ This is a simple stock price prediction project for my AIML internship.
 - Plots actual vs predicted prices
 - Prints next predicted close price
 
-## How to run
-
-1. Open the `.ipynb` file in Jupyter Notebook or Google Colab.
-2. Run all the cells step by step.
-3. You will see the graph and the prediction.
-
 ## Tools used
 
 - Python
